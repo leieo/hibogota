@@ -1,0 +1,17 @@
+* {
+	padding: 0;
+	margin: 0;
+	background-color: aquamarine;
+	color: white;
+	font-family: sans-serif;
+}
+
+h1 {
+	font-size: 120px;
+}
+
+#hibogota {
+	padding: 100px;
+	text-align: center;
+	font-size: 40px;
+}
